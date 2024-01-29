@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jHTJuRvOuf3k9qAUFv2mm/fDHT0xp5oN2Bo/J772VgnsVbViPj8Sr7eElxmR4kRw+12UvJ4K4AdL6L7qi7wU8g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\addumbra\\source\\repos\\Mars\\Mars.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\addumbra\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

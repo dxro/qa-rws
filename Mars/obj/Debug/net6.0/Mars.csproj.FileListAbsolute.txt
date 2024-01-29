@@ -1,0 +1,17 @@
+C:\Users\addumbra\source\repos\Mars\bin\Debug\net6.0\Mars.exe
+C:\Users\addumbra\source\repos\Mars\bin\Debug\net6.0\Mars.deps.json
+C:\Users\addumbra\source\repos\Mars\bin\Debug\net6.0\Mars.runtimeconfig.json
+C:\Users\addumbra\source\repos\Mars\bin\Debug\net6.0\Mars.dll
+C:\Users\addumbra\source\repos\Mars\bin\Debug\net6.0\Mars.pdb
+C:\Users\addumbra\source\repos\Mars\obj\Debug\net6.0\Mars.csproj.AssemblyReference.cache
+C:\Users\addumbra\source\repos\Mars\obj\Debug\net6.0\Mars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\addumbra\source\repos\Mars\obj\Debug\net6.0\Mars.AssemblyInfoInputs.cache
+C:\Users\addumbra\source\repos\Mars\obj\Debug\net6.0\Mars.AssemblyInfo.cs
+C:\Users\addumbra\source\repos\Mars\obj\Debug\net6.0\Mars.csproj.CoreCompileInputs.cache
+C:\Users\addumbra\source\repos\Mars\obj\Debug\net6.0\Mars.dll
+C:\Users\addumbra\source\repos\Mars\obj\Debug\net6.0\refint\Mars.dll
+C:\Users\addumbra\source\repos\Mars\obj\Debug\net6.0\Mars.pdb
+C:\Users\addumbra\source\repos\Mars\obj\Debug\net6.0\Mars.genruntimeconfig.cache
+C:\Users\addumbra\source\repos\Mars\obj\Debug\net6.0\ref\Mars.dll
+C:\Users\addumbra\source\repos\Mars\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\addumbra\source\repos\Mars\obj\Debug\net6.0\Mars.csproj.CopyComplete

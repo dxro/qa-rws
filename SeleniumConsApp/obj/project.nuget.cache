@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L50eYh/OOfrQokS1Q9l/1fnfYpUDsm2rq0YMAnAjlU+eMti86bmWlbKsxhXo74+12o1ipBK462TThol9djvCZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\addumbra\\source\\repos\\SeleniumConsApp\\SeleniumConsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\addumbra\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\addumbra\\.nuget\\packages\\selenium.webdriver\\4.17.0\\selenium.webdriver.4.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

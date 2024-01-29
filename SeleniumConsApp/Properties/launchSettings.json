@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SeleniumConsApp": {
+      "commandName": "Project"
+     // ,"commandLineArgs": "https://en.wikipedia.org/wiki/Water_buffalo\r\n"
+    }
+  }
+}
